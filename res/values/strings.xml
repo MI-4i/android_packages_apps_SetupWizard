@@ -20,8 +20,8 @@
     <string name="os_name" translatable="false">BlissRom</string>
     <string name="default_theme_name" translatable="false">Material</string>
 
-    #<string name="cm_account_type" translatable="false">com.cyanogenmod.account</string>
-    #<string name="cm_account_package_name" translatable="false">com.cyanogenmod.account</string>
+    <string name="cm_account_type" translatable="false">com.cyanogenmod.account</string>
+    <string name="cm_account_package_name" translatable="false">com.cyanogenmod.account</string>
 
     <string name="next">Next</string>
     <string name="skip">Skip</string>
